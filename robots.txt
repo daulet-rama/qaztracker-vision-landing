@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Демо-копия лендинга QazTracker Vision (черновик)
